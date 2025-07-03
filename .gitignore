@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# VS Code / PyCharm
+.vscode/
+.idea/
+
+# Data dumps and large files
+*.csv
+*.xlsx
+*.sql
+*.zip
+*.tar.gz
+
+# Streamlit secrets
+.streamlit/secrets.toml
