@@ -32,9 +32,13 @@ An interactive business intelligence dashboard built with **Streamlit**, **MySQL
 /retail-dashboard/
 │
 ├── streamlit.app.py # Main Streamlit dashboard script
+│
 ├── requirements.txt # List of Python dependencies
+│
 ├── .gitignore # Files and folders to ignore in Git
+│
 ├── README.md # Project documentation
+│
 ├── SQL_queries
 │ ├── 01_revenue_analysis.sql
 │ └── ...
