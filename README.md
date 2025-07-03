@@ -1,11 +1,9 @@
 # 📊 Retail Sales & Returns Dashboard
---------------------------------------
 
 An interactive business intelligence dashboard built with **Streamlit**, **MySQL**, **Pandas**, and **Plotly** to analyze retail sales performance, customer behavior, and return rates across countries and products.
 
 
 ## 🚀 Features
-----------------
 
 - 🧭 **Filter by Country & Product** to view tailored KPIs
 - 💰 **Key Metrics**: Revenue, Orders, Customers, Average Order Value, Units Sold
@@ -15,7 +13,6 @@ An interactive business intelligence dashboard built with **Streamlit**, **MySQL
 
 
 ## 🛠️ Tech Stack
------------------
 
 | Tool/Library     | Purpose                        |
 |------------------|--------------------------------|
@@ -27,7 +24,6 @@ An interactive business intelligence dashboard built with **Streamlit**, **MySQL
 
 
 ## 📂 Project Structure
-------------------------
 
 /retail-dashboard/
 │
@@ -47,7 +43,6 @@ An interactive business intelligence dashboard built with **Streamlit**, **MySQL
 
 
 ## 🔧 Setup Instructions
-------------------------
 
 ### 1. Clone the Repository
 
@@ -98,7 +93,6 @@ Modifier
 http://localhost:8501
 
 # 📈 Use Cases
----------------
 
 ## This dashboard can be used for:
 
@@ -113,7 +107,7 @@ Data storytelling for non-technical stakeholders
 Portfolio showcase for data analysts and BI developers
 
 # 🙋‍♀️ Author 
-------------
+
 Reem Bouqueau
 🎯 Data Analyst | BI Developer | CRM-Savvy
 
@@ -121,11 +115,11 @@ LinkedIn: https://www.linkedin.com/in/r-bouqueau/
 GitHub: https://github.com/MimiO91/
 
 # 🧾 License
--------------
+
 This project is licensed under the MIT License.
 
 # ✨ Acknowledgments
----------------------
+
 Dataset inspired by the UCI Online Retail Data Set
 
 Built as part of a professional data portfolio
